@@ -28,4 +28,4 @@ Create a simple visualization of events in the Dashboard app under the Analytics
 Create a new security alerts that detects nmap scans within the event logs. After defining and configuring the rule, set an action that will be taken once the alert is triggered. For example, you can send an email with a report of the rule execution: 
 ![Setting an email alert for the rule](https://github.com/kmcg55/Elastic-SIEM-Lab/blob/master/img/image5.jpg)
 
-Now, any nmap scans will trigger an alert and a report will be sent to my my Gmail address. This alert is very simple and more customized and complex rules can be configured to your liking, depending on the security posture of your home network/organization.
+Now, any nmap scans will trigger an alert and a report will be sent to my Gmail address. This alert is very simple and more customized and complex rules can be configured to your liking, depending on the security posture of your home network/organization.
